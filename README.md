@@ -1,6 +1,6 @@
 # Security Index
 
-安全相关资源收集，以便于查询使用。
+安全相关资源收集，以便于查询使用, 欢迎补充。
 
 ## Exploit
 
@@ -36,3 +36,11 @@
 * [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
 * [各种花式反连shell](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
 * [pwndbg](https://github.com/zachriggle/pwndbg), 基于`peda`又做了不少工作。
+
+## Fuzzing tools
+
+* [AFL](http://lcamtuf.coredump.cx/afl/)
+
+## 计算机课程
+
+* [Awesome-Courses](https://github.com/prakhar1989/awesome-courses)
