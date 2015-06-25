@@ -6,8 +6,9 @@
 
 * [google-security-research](https://code.google.com/p/google-security-research/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary), By Project Zero
 * [Exploit-DB](https://www.exploit-db.com/) 
+* [openwall](http://www.openwall.com/lists/oss-security/)
 * [CXsecurity](https://cxsecurity.com/)
-* [微软官方曝洞](https://technet.microsoft.com/en-us/library/security/dn903755.aspx)
+* [微软星期二](https://technet.microsoft.com/en-us/library/security/dn903755.aspx)
 
 ## Blog
 
