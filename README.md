@@ -7,13 +7,14 @@
 * [google-security-research](https://code.google.com/p/google-security-research/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary), By Project Zero
 * [Exploit-DB](https://www.exploit-db.com/) 
 * [openwall](http://www.openwall.com/lists/oss-security/)
+* [seclists.org](http://seclists.org/oss-sec/2015/q2/index.html)
 * [CXsecurity](https://cxsecurity.com/)
 * [微软星期二](https://technet.microsoft.com/en-us/library/security/dn903755.aspx)
+* [Project Zero](http://googleprojectzero.blogspot.com/)
 
 ## Blog
 
 * [it-sec-catalog](https://code.google.com/p/it-sec-catalog/wiki/Exploitation)
-* [Project Zero](http://googleprojectzero.blogspot.com/)
 * [reddit-netsec](https://www.reddit.com/r/netsec/?count=25&after=t3_3abhl7)
 * [Malware don't need Coffee](http://malware.dontneedcoffee.com/)
 
