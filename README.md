@@ -12,18 +12,24 @@
 * [微软星期二](https://technet.microsoft.com/en-us/library/security/dn903755.aspx)
 * [Project Zero](http://googleprojectzero.blogspot.com/)
 
+## 漏洞信息
+
+* [www.securityfocus.com](http://www.securityfocus.com/)
+* [ZDI-zero day initiative](http://zerodayinitiative.com/advisories/published/)
+* [CentOS security notices](https://lwn.net/Alerts/CentOS/)
+* [CVE mitre](https://cve.mitre.org/)
+* [CVE Details](http://www.cvedetails.com/)
+
 ## Blog
 
 * [it-sec-catalog](https://code.google.com/p/it-sec-catalog/wiki/Exploitation)
 * [reddit-netsec](https://www.reddit.com/r/netsec/?count=25&after=t3_3abhl7)
 * [Malware don't need Coffee](http://malware.dontneedcoffee.com/)
 
-## 漏洞信息
+## 牛人博客
 
-* [ZDI-zero day initiative](http://zerodayinitiative.com/advisories/published/)
-* [CentOS security notices](https://lwn.net/Alerts/CentOS/)
-* [CVE mitre](https://cve.mitre.org/)
-* [CVE Details](http://www.cvedetails.com/)
+* [j00ru](http://j00ru.vexillium.org/)
+
 
 ## 二进制分析平台
 
