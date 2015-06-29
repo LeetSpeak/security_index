@@ -43,7 +43,7 @@
 
 * [CTF writeups](https://github.com/ctfs)
 * [CTF-tools](https://github.com/zardus/ctf-tools)，CTF工具收集
-* [Binjitu](https://github.com/binjitsu/binjitsu)，Pwntools的一个fork分支，个人认为比pwntools官方版的好使
+* [Binjitsu](https://github.com/binjitsu/binjitsu)，Pwntools的一个fork分支，个人认为比pwntools官方版的好使
 * [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)，找ROP的神器
 * [各种花式反连shell](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
 * [pwndbg](https://github.com/zachriggle/pwndbg), 基于`peda`又做了不少工作。
