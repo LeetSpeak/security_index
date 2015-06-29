@@ -6,14 +6,15 @@
 
 * [google-security-research](https://code.google.com/p/google-security-research/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary), By Project Zero
 * [Exploit-DB](https://www.exploit-db.com/) 
-* [openwall](http://www.openwall.com/lists/oss-security/)
 * [seclists.org](http://seclists.org/oss-sec/2015/q2/index.html)
 * [CXsecurity](https://cxsecurity.com/)
-* [微软星期二](https://technet.microsoft.com/en-us/library/security/dn903755.aspx)
 * [Project Zero](http://googleprojectzero.blogspot.com/)
 
 ## 漏洞信息
 
+* [openwall](http://www.openwall.com/lists/oss-security/)
+* [openwall-wiki](http://oss-security.openwall.org/wiki/)
+* [微软星期二](https://technet.microsoft.com/en-us/library/security/dn903755.aspx)
 * [www.securityfocus.com](http://www.securityfocus.com/)
 * [ZDI-zero day initiative](http://zerodayinitiative.com/advisories/published/)
 * [CentOS security notices](https://lwn.net/Alerts/CentOS/)
@@ -54,3 +55,12 @@
 ## 计算机课程
 
 * [Awesome-Courses](https://github.com/prakhar1989/awesome-courses)
+
+## Pwn的练习资源
+
+* [exploit-exercises.com](https://exploit-exercises.com/)，适合快速入门
+* [pwnable.kr](http://pwnable.kr/)，提高，积分榜上可以看到很多大牛
+
+## 逆向的学习资源
+
+* [RE-for-beginners](https://github.com/dennis714/RE-for-beginners)，学习逆向的好书，就是有点厚，不过可以慢慢看
