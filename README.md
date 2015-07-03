@@ -64,3 +64,8 @@
 ## 逆向的学习资源
 
 * [RE-for-beginners](https://github.com/dennis714/RE-for-beginners)，学习逆向的好书，就是有点厚，不过可以慢慢看
+
+## Web练习资源
+
+* [web_for_pentester](https://www.pentesterlab.com/exercises/web_for_pentester)
+* [php4fun](http://php4fun.sinaapp.com/)
